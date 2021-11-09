@@ -1,0 +1,13 @@
+C:\Users\ali\source\repos\ıronoct\ıronoct\bin\Debug\ıronoct.exe.config
+C:\Users\ali\source\repos\ıronoct\ıronoct\bin\Debug\ıronoct.exe
+C:\Users\ali\source\repos\ıronoct\ıronoct\bin\Debug\ıronoct.pdb
+C:\Users\ali\source\repos\ıronoct\ıronoct\bin\Debug\IronOcr.dll
+C:\Users\ali\source\repos\ıronoct\ıronoct\bin\Debug\IronOcr.xml
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.csprojAssemblyReference.cache
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.Form1.resources
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.Properties.Resources.resources
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.csproj.GenerateResource.cache
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.csproj.CopyComplete
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.exe
+C:\Users\ali\source\repos\ıronoct\ıronoct\obj\Debug\ıronoct.pdb
